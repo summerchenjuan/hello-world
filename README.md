@@ -1,3 +1,4 @@
 # hello-world
 Just an example  
-make changes 
+make changes  
+delete the readme
