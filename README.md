@@ -1,3 +1,3 @@
 # hello-world
-Just an example
+Just an example\n
 make changes 
